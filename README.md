@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi! 👋 I'm Aditya Sarin 💻
 
-I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App Development using Flutter and Machine Learning.
+I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App development using Flutter and Machine Learning.
 
 ## ⚡ Github Stats
 
