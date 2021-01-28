@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-[![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
-[![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
+[![](https://komarev.com/ghpvc/?username=aditya28sarin&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
+[![](https://img.shields.io/github/followers/aditya28sarin?label=GitHub%20Followers)](https://github.com/markoDenic)
 
 # Hi! 👋 I'm [Aditya Sarin](https://markodenic.com) 💻
 
