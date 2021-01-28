@@ -24,11 +24,31 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Languages and Tools
+## Languages 
 <span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/javascript.png"/></span>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/dart.png"/></span>
 
+## Development tools and frameworks
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+
+## Databases
+<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+## Others
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 ### Let's Connect 🔗
 
