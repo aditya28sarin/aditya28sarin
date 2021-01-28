@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aditya28sarin/aditya28sarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
