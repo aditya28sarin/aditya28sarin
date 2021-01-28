@@ -51,6 +51,12 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 ### Let's Connect 🔗
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/aditya28sarin/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/AdityaSarin14) 
+<a href="https://www.linkedin.com/in/aditya28sarin/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/AdityaSarin14">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:aditya28sarin@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
