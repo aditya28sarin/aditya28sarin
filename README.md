@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-[![](https://komarev.com/ghpvc/?username=aditya28sarin&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
-[![](https://img.shields.io/github/followers/aditya28sarin?label=GitHub%20Followers)](https://github.com/markoDenic)
-
 # Hi! 👋 I'm [Aditya Sarin](https://markodenic.com) 💻
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App Development using Flutter and Machine Learning.
