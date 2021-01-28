@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! 👋 I'm [Aditya Sarin](https://markodenic.com) 💻
+# Hi! 👋 I'm [Aditya Sarin]💻
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App Development using Flutter and Machine Learning.
 
