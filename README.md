@@ -26,9 +26,9 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 
 ## Languages 
 <span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/javascript.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/dart.png"/></span>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png"/>
 
 ## Development tools and frameworks
 <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
@@ -39,12 +39,12 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 
 ## Databases
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+<span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
 <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ## Others
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<span><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
