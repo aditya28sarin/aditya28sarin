@@ -31,7 +31,7 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <span><img src="https://img.icons8.com/color/48/000000/dart.png"/></span>
 
 ## Development tools and frameworks
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
