@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! 👋 I'm Aditya Sarin 💻
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aditya Sarin</h1>
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App development using Flutter and Machine Learning.
 
-Actively building on Data structures and Algorithms Fundamentals using C++ ⚔
+- I'm Actively building on Data structures and Algorithms Fundamentals using C++ ⚔
 
 ## ⚡ Github Stats
 
