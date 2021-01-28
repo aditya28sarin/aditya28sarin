@@ -25,8 +25,8 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 
 
 ## Languages and Tools
-<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 
