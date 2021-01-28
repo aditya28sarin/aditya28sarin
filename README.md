@@ -25,9 +25,6 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya28sarin)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Let's Connect 🔗
 
