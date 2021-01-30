@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, Hybrid App development using Flutter and Machine Learning.
 
-## ⚡ Github Stats
+## ⚡ GitHub Stats
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/anuraghazra/github-readme-stats)
 
