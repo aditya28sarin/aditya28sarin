@@ -8,7 +8,6 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Languages 
 <span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
