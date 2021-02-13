@@ -29,7 +29,7 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 
 ## Others
 <span><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
