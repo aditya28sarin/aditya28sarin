@@ -37,6 +37,7 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 
 ### Let's Connect 🔗
 <a href="https://www.linkedin.com/in/aditya28sarin/">
