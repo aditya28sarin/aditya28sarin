@@ -24,6 +24,7 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
 
 ## Databases
 <span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
