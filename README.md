@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aditya Sarin</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://aditya28sarin.github.io/portfolio-website/">Aditya Sarin</a></h1>
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, App development and Machine Learning. 
 
