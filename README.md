@@ -17,7 +17,7 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
+<div></div>
 
 
 ## ⚡ GitHub Stats
