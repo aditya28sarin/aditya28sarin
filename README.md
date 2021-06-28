@@ -6,10 +6,19 @@
 
 I'm a Software Developer Intern at Futuryze Digital. I am interested in Web development, App development and Machine Learning. 
 
+### Let's Connect 🔗
+<a href="https://www.linkedin.com/in/aditya28sarin/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/AdityaSarin14">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:aditya28sarin@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
 ## ⚡ GitHub Stats
-
-
-
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/aditya28sarin/github-readme-stats)
 
 ## Languages 
@@ -40,14 +49,3 @@ I'm a Software Developer Intern at Futuryze Digital. I am interested in Web deve
 <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
-
-### Let's Connect 🔗
-<a href="https://www.linkedin.com/in/aditya28sarin/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/AdityaSarin14">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:aditya28sarin@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
