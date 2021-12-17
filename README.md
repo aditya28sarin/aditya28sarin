@@ -29,7 +29,7 @@ I'm an incoming Computer Science Graduate student at Virginia Tech. I am interes
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img src="https://img.icons8.com/material-outlined/24/000000/django.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
 
 ## Databases
 <span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
